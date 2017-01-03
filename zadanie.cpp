@@ -34,7 +34,7 @@ void pkt_d()
 }
 void pkt_e()
 {
-    roznica=2016-wiek;
+    roznica=2017-wiek;
     cout <<"Urodziles sie w "<< roznica << " roku." << endl;
 }
 void pkt_f()
